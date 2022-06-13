@@ -1,0 +1,7 @@
+{
+    "name": "incryptpw/dev",
+    "description": "A laboratory for development purposes",
+    "require": {
+        "php": ">=7.4"
+    }
+}
